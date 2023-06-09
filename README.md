@@ -18,5 +18,5 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FedeDFR&theme=black" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=FedeDFR&show_icons=false&theme=black" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=FedeDFR&theme=black" />
 </a>
