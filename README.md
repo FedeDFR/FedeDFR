@@ -16,8 +16,8 @@
 <a href="https://www.ruby-lang.org/es/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> 
 </p>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FedeDFR&theme=midnight-blue" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FedeDFR&theme=midnight-grey" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=FedeDFR&show_icons=true&theme=midnight-blue" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=FedeDFR&show_icons=true&theme=midnight-grey" />
 </a>
