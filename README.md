@@ -15,8 +15,8 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FedeDFR&theme=midnight-black" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FedeDFR&theme=black" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=FedeDFR&show_icons=true&theme=midnight-black" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=FedeDFR&show_icons=true&theme=black" />
 </a>
