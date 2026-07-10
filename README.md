@@ -3,15 +3,8 @@
 
 - 📝 I’m currently **finishing my degree**
 
-- 📚 I’m learning **Assembly , C & Haskell**
-
-
 <h4 align="left">Languages I know:</h3>
 <p align="left"> 
- 
- [![My Skills](https://skillicons.dev/icons?i=c,cpp,haskell,&perline=3)](https://skillicons.dev)
-
-
 
 <p align="center">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=FedeDFR&show_icons=true&count_private=true&theme=github_dark_dimmed&hide_border=true&hide=issues,contribs&bg_color=00000000">
